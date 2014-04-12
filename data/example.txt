@@ -1,0 +1,4 @@
+This is a plain text file.
+As we already know, Python code is itself written in plain text.
+
+Each line is retrieved by Python, one at a time.
